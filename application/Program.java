@@ -432,11 +432,11 @@ public class Program {
                     break;
 
                     case 12:
-                        System.out.println("\nVolte Sempre :)\n");
+                        System.out.println("\nVOLTE SEMPRE :)\n");
                     break;
 
                     default:
-                        System.out.println("\nValor invalido!");
+                        System.out.println("\nVALOR INVALIDO!");
                     break;
     
                 }
